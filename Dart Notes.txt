@@ -1,0 +1,9 @@
+1.  Variables are non null by default. You can't assign null to them. 
+    To explicitly make them nullbale --> int? aNullableInt = null; 
+
+2. Semicolon are mandatory in dart.
+
+3. Dart doesn't have primitive data types. Every data type is an object.
+
+4. Can't use final and var together as var means that you can override variable multiple times with same data type.
+ 
