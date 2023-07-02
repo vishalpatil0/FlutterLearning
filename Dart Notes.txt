@@ -6,4 +6,5 @@
 3. Dart doesn't have primitive data types. Every data type is an object.
 
 4. Can't use final and var together as var means that you can override variable multiple times with same data type.
- 
+
+5. ScrollView is usable when the element are different UI wise.
