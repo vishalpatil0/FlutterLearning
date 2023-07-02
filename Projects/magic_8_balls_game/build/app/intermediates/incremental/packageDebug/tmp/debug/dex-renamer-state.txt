@@ -1,0 +1,4 @@
+#Fri Jun 23 16:41:24 IST 2023
+base.0=/Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

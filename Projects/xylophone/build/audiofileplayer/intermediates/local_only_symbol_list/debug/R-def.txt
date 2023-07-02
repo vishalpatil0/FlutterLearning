@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_fast_forward_black_36dp
+drawable ic_fast_rewind_black_36dp
+drawable ic_pause_black_36dp
+drawable ic_play_arrow_black_36dp
+drawable ic_skip_next_black_36dp
+drawable ic_skip_previous_black_36dp
+drawable ic_stop_black_36dp
+string notificationChannelName
+string pause
+string play
+string seekBackward
+string seekForward
+string skipBackward
+string skipForward
+string stop

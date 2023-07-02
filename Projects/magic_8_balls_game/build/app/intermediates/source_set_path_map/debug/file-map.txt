@@ -1,0 +1,13 @@
+co.appbrewery.magic_8_balls.app-jetified-window-1.0.0-beta04-0 /Users/vishal/.gradle/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+co.appbrewery.magic_8_balls.app-jetified-annotation-experimental-1.1.0-1 /Users/vishal/.gradle/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+co.appbrewery.magic_8_balls.app-core-1.6.0-2 /Users/vishal/.gradle/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+co.appbrewery.magic_8_balls.app-jetified-window-java-1.0.0-beta04-3 /Users/vishal/.gradle/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res
+co.appbrewery.magic_8_balls.app-debug-4 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/android/app/src/debug/res
+co.appbrewery.magic_8_balls.app-main-5 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/android/app/src/main/res
+co.appbrewery.magic_8_balls.app-pngs-6 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/generated/res/pngs/debug
+co.appbrewery.magic_8_balls.app-resValues-7 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/generated/res/resValues/debug
+co.appbrewery.magic_8_balls.app-rs-8 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/generated/res/rs/debug
+co.appbrewery.magic_8_balls.app-mergeDebugResources-9 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+co.appbrewery.magic_8_balls.app-mergeDebugResources-10 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+co.appbrewery.magic_8_balls.app-merged_res-11 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/app/intermediates/merged_res/debug
+co.appbrewery.magic_8_balls.app-packaged_res-12 /Users/vishal/Desktop/Flutter/Projects/magic_8_balls/build/path_provider_android/intermediates/packaged_res/debug
