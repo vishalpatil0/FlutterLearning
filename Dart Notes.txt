@@ -8,3 +8,94 @@
 4. Can't use final and var together as var means that you can override variable multiple times with same data type.
 
 5. ScrollView is usable when the element are different UI wise.
+
+6. variable declared with var keyword once get value assigned to it, its data type changes from  var to that specifi type of value.
+   But dyanmic you can assign multiple times any type value to that variable.
+
+7. you can use const and final keyword without mentioning the data type to them.
+   YOu can't use const inside a class. const is assigned at compile-time and final at runtime.
+
+8. ??=     Assign the value only if the variable is null.
+
+9. get set are keywords in dart.  e.g 
+   
+   String name;
+
+   String get stud_name() {
+    return name;
+   }
+
+   void set stud_name(string name) {
+    this_name = name;
+   }
+
+
+10. There are no public, private and protected keyword in dart.
+
+11. There is not interface keyword in dart. You can use implements keywrod on a class to use that class as interface.
+
+
+12. named parameters --> void display(int age, {required String name, String? lname});
+
+      here age is required paramter, name is required paramter so it is non null and lname is nullable as it is optional
+
+      usage : -> display(12,name:"Vishal");
+
+   optional paramter --> void display(int age, [int salary]);
+
+   salary is optional here.
+
+   default parametr -->
+   
+      if no value is passed then default value is used
+
+      void display(int age, {int? age = 12}, [int salary = 3000])
+
+13. Function within function is supported in dart.
+
+14. while creating object if you use const keyword then it stores in same memory location
+
+
+   var d1 = const Demo(12,12);
+   var d2 = const Demo(12,12);  same memory location of d1 and d2 : only in case of const constructor
+
+   but new keyword create different memory location 
+
+15. redirecting constructor
+
+   class Demo{
+      int a,b;
+
+      Demo(this.a,this.b);
+
+      Demo.named(int j) : this(j,34);
+   }
+
+16. Callable class : you can use the object of class as method.
+
+   void main() {
+      var d = Demo();
+      print(d(2,3));
+   }
+
+   class Demo{
+      call(int a,int b) => a+b;
+   }
+
+17. Mixin is a class with no constructor.
+         class Employee {
+         void clockIn() {...}
+         }
+
+         mixin Medical {
+            int takeTemperature {...}
+         }
+
+         // use mixins on your classes via the `with` keyword
+         class Nurse extends Employee with Medical {}
+         class Doctor extends Employee with Medical {
+         performSurgery() {...}  
+         }
+         class Bartender extends Employee {}
+
+
